@@ -13,5 +13,5 @@ Ex: 100.0,22.7,etc.
 
 How to check the datatype given by me is of which type?
 
-type() method will let us know it is of which datatype
+type() method will let us know it is of which datatype 
 
