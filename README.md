@@ -1,5 +1,6 @@
 # data-types
 DATA TYPES
+
 1.Strings: These are the characters written inside double or single quotations.
 Ex: "hello", '123' etc
 
